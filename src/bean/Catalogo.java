@@ -66,5 +66,10 @@ public class Catalogo {
         this.idLinhaServico = idLinhaServico;
     }
     
+    @Override
+    public String toString(){
+       return this.descricao;
+    }
+    
     
 }

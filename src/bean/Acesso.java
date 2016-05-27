@@ -78,7 +78,5 @@ public class Acesso {
     public void setIdTipoAcesso(int idTipoAcesso) {
         this.idTipoAcesso = idTipoAcesso;
     }
-   
-   
     
 }
